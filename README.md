@@ -6,7 +6,8 @@ A modern task management application built with React and Firebase
 [![Vite](https://img.shields.io/badge/Vite-4.0-646CFF?logo=vite)](https://vitejs.dev/)
 [![Firebase](https://img.shields.io/badge/Firebase-9.0.0-FFCA28?logo=firebase)](https://firebase.google.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 
 ## 🛠️ Tech Stack
@@ -29,7 +30,7 @@ A modern task management application built with React and Firebase
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/.git
+   git clone https://github.com/Bhuvan-S-prasad/todo-firebase.git
    cd to-do-list-app
    ```
 
