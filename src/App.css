@@ -1,0 +1,21 @@
+
+
+/* Ensure the html and body take full height */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* Centering the root element using flexbox */
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Full viewport height */
+}
+
+/* Optional: Center content within App component */
+.App {
+  text-align: center;
+}
