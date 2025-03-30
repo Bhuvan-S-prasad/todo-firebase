@@ -18,6 +18,10 @@ A modern task management application built with React and Firebase
 - **Styling:** Modern CSS with Flexbox
 - **Development:** ES6+ JavaScript
 
+## documents
+
+- here's a pdf version of the presentation that breaks down the process of building basic react page with firebase: https://drive.google.com/file/d/1jTyUxcriDgzvMfF6SYmYCKTkO6h11pNH/view?usp=drive_link
+
 ## 🚀 Quick Start
 
 ### Prerequisites
